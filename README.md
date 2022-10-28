@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayanmullick96&label=Profile%20views&color=0e75b6&style=flat" alt="ayanmullick96" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@aquamindayan" target="blank"><img src="https://img.shields.io/twitter/follow/@aquamindayan?logo=twitter&style=for-the-badge" alt="@aquamindayan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@aquamindayan" target="blank"><img src="https://img.shields.io/twitter/follow/aquamindayan?logo=twitter&style=for-the-badge" alt="aquamindayan" /></a> </p>
 
 - 🌱 I’m currently learning **Deep Learning, NLP etc.**
 
