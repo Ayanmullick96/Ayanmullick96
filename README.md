@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@aquamindayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aquamindayan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayan-mullick96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayan-mullick96" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayan_mullick7_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayan-mullick96" height="30" width="40" /></a>
 <a href="https://kaggle.com/ayanmullick96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayanmullick96" height="30" width="40" /></a>
 <a href="https://fb.com/aquamindayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aquamindayan" height="30" width="40" /></a>
 <a href="https://instagram.com/_____t_u_k_a_i_____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_____t_u_k_a_i_____" height="30" width="40" /></a>
