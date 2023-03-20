@@ -15,7 +15,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/jobs/application-settings/?hideTitle=true](https://www.linkedin.com/jobs/application-settings/?hideTitle=true)
 - ☕ 👇 Let's have coffee together
-  ## 💰 Buy Me a Coffee
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ayanmullick) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@ayanmullick96) 
 
 <h3 align="left">Connect with me:</h3>
@@ -44,7 +43,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ayanmullick96&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Ayanmullick96&icon=9&color=11)](https://visitcount.itsvg.in)
+
 
 
